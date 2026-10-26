@@ -109,7 +109,7 @@ Soy desarrollador **full stack** y me gusta convertir ideas en productos web que
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/cristian-higuera)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=D97757)](https://camilithopks6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=D97757)](mailto:camilithopks6@gmail.com)
 
 </div>
 
