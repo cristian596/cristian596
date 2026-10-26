@@ -57,13 +57,13 @@ Soy desarrollador **full stack** y me gusta convertir ideas en productos web que
       <h3>💈 Black Iron Barbers</h3>
       <p>Sitio web completo para una barbería: frontend, backend y despliegue.</p>
       <p><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-161B22?style=flat-square&logo=nodedotjs&logoColor=D97757"/> <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=D97757"/></p>
-      <a href="https://github.com/cristian596/Black-Iron-Barbers">📂 Ver repositorio</a>
+      <a href="https://black-iron-barbers.camilithopks6.workers.dev/">🔗 Ver demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🦷 DENTAL PRIME</h3>
       <p>Landing para clínica dental, lista para personalizar y vender como plantilla.</p>
       <p><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=61DAFB"/></p>
-      <a href="#">🔗 Ver demo</a>
+      <a href="https://clinica-demo-5fe.pages.dev/">🔗 Ver demo</a>
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Soy desarrollador **full stack** y me gusta convertir ideas en productos web que
       <h3>🏗️ NOVA CONSTRUCT</h3>
       <p>Landing para constructoras con secciones de servicios, proyectos y contacto.</p>
       <p><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=61DAFB"/></p>
-      <a href="#">🔗 Ver demo</a>
+      <a href="https://constructora-demo-dp1.pages.dev/">🔗 Ver demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Portafolio personal</h3>
