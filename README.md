@@ -51,6 +51,14 @@ Soy desarrollador **full stack** y me gusta convertir ideas en productos web que
 
 ## 🚀 Proyectos destacados
 
+<div align="center">
+
+<sub>💡 <b>Tip:</b> usa <kbd>Ctrl</kbd> + clic (o <kbd>⌘</kbd> + clic en Mac, o clic con la rueda del mouse) para abrir cada demo en una pestaña nueva</sub>
+
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -98,6 +106,14 @@ Soy desarrollador **full stack** y me gusta convertir ideas en productos web que
 ## 📫 Contacto
 
 <div align="center">
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](#)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=D97757)](mailto:tu-correo@ejemplo.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:61DAFB,50:D97757,100:0D1117&section=footer" alt="Pie decorativo" width="100%"/>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](#)
